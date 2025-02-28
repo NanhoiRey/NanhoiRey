@@ -2,7 +2,10 @@
 
 ### Hi there 👋 I'm Nicolas Rey
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+
+Soy egresado del Instituto de Jazz EMU en Argentina, y tras varios años de experiencia como profesor y músico sesionista, decidí dar un giro hacia el mundo de la programación. Desde entonces, me he apasionado por el desarrollo web, creando experiencias interactivas y funcionales para los usuarios 🚀, mientras continuo ampliando mis conocimientos en diversos lenguajes de programación 📜.
+
+I am a graduate of the EMU Jazz Institute in Argentina, and after several years of experience as a teacher and session musician, I transitioned into the world of programming. Since then, I have developed a passion for web development, creating interactive and user-friendly experiences 🚀, while continually expanding my knowledge of various programming languages 📜.
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.

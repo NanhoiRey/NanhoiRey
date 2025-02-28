@@ -16,7 +16,9 @@ I am a graduate of the EMU Jazz Institute in Argentina, and after several years 
 - 🌱 I am currently studying and training in backend programming languages.
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]
+
+(https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
 
 

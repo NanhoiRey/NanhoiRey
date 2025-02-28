@@ -8,14 +8,15 @@ Soy egresado del Instituto de Jazz EMU en Argentina, y tras varios años de expe
 I am a graduate of the EMU Jazz Institute in Argentina, and after several years of experience as a teacher and session musician, I transitioned into the world of programming. Since then, I have developed a passion for web development, creating interactive and user-friendly experiences 🚀, while continually expanding my knowledge of various programming languages 📜.
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
+
 - 🔭 I am currently looking for a job and project to work as a full stack developer.
 
 - 💬 Always eager to discuss music, cinema, TV shows, anything that interests you.
 
-
 - 🌱 I am currently studying and training in backend programming languages.
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 

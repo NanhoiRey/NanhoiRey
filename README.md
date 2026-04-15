@@ -13,7 +13,6 @@ Siempre abierto a charlar sobre música, cine, series o cualquier tema interesan
 
 En paralelo sigo formándome y profundizando en tecnologías backend.
 
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,python,mysql,git,github" />
@@ -21,7 +20,6 @@ En paralelo sigo formándome y profundizando en tecnologías backend.
 
 ---
 
-## 🤝 Conecta conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nanorey" target="_blank">

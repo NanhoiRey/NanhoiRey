@@ -1,5 +1,5 @@
 
-Hola! 👋 I'm Nicolás Rey
+Hola! Soy Nicolás Rey.
 
 Nacido y formado en Argentina, me trasladé recientemente a Málaga en busca de nuevos desafíos personales y profesionales. Mi trayectoria comenzó en la música: estudié en el Instituto de Jazz Argentino EMU – Berklee y trabajé durante años como sesionista y profesor, una experiencia que fortaleció mi creatividad, disciplina y capacidad de colaboración.
 
@@ -13,24 +13,32 @@ Siempre abierto a charlar sobre música, cine, series o cualquier tema interesan
 
 En paralelo sigo formándome y profundizando en tecnologías backend.
 
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
-
-
-
-
-    
-    
-**If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.**
-<hr>
 <p align="center">
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/nanorey"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:nanhoirey94@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-
-<br>
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,html,css,tailwind,python,mysql,git,github" />
 </p>
 
------
+---
+
+## 🤝 Conecta conmigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nanorey" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nanhoirey94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/nanhoi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Si te gusta mi trabajo, un ⭐ siempre motiva y ayuda a seguir creando.</sub>
+</p>
 
 

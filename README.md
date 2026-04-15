@@ -1,21 +1,17 @@
 
+Hola! 👋 I'm Nicolás Rey
 
-### Hi there 👋 I'm Nicolas Rey
+Nacido y formado en Argentina, me trasladé recientemente a Málaga en busca de nuevos desafíos personales y profesionales. Mi trayectoria comenzó en la música: estudié en el Instituto de Jazz Argentino EMU – Berklee y trabajé durante años como sesionista y profesor, una experiencia que fortaleció mi creatividad, disciplina y capacidad de colaboración.
 
+Con el tiempo descubrí en la programación un espacio donde puedo combinar diseño, lógica y sensibilidad artística. Hoy disfruto creando interfaces claras, desarrollando soluciones completas y aprendiendo tecnologías que me permitan crecer y aportar valor.
 
-Soy egresado del Instituto de Jazz EMU en Argentina, y tras varios años de experiencia como profesor y músico sesionista, decidí dar un giro hacia el mundo de la programación. Desde entonces, me he apasionado por el desarrollo web, creando experiencias interactivas y funcionales para los usuarios, mientras continuo ampliando mis conocimientos en diversos lenguajes de programación.
+Me motiva construir productos digitales funcionales, estéticos y centrados en las personas.
 
-I am a graduate of the EMU Jazz Institute in Argentina, and after several years of experience as a teacher and session musician, I transitioned into the world of programming. Since then, I have developed a passion for web development, creating interactive and user-friendly experiences, while continually expanding my knowledge of various programming languages.
+Actualmente busco oportunidades y proyectos como desarrollador Full Stack.
 
+Siempre abierto a charlar sobre música, cine, series o cualquier tema interesante.
 
-
-- I am currently looking for a job and project to work as a full stack developer.
-
-- Always eager to discuss music, cinema, TV shows, anything that interests you.
-
-- I am currently studying and training in backend programming languages.
-
-</br>
+En paralelo sigo formándome y profundizando en tecnologías backend.
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python)](https://skillicons.dev)
